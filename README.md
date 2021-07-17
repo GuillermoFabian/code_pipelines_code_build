@@ -16,6 +16,6 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
 - Docker Engine
     - Installation instructions for all OSes can be found [here](https://docs.docker.com/install/).
  - AWS Account
-     - You can create an AWS account by signing up [here](https://aws.amazon.com/#).
+     - Create an AWS account by signing up [here](https://aws.amazon.com/#).
      
 
